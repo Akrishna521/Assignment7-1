@@ -1,0 +1,7 @@
+C:\DOT NET\Day 6\ConAppAssignmentJArray\ConAppAssignmentJArray\bin\Debug\ConAppAssignmentJArray.exe.config
+C:\DOT NET\Day 6\ConAppAssignmentJArray\ConAppAssignmentJArray\bin\Debug\ConAppAssignmentJArray.exe
+C:\DOT NET\Day 6\ConAppAssignmentJArray\ConAppAssignmentJArray\bin\Debug\ConAppAssignmentJArray.pdb
+C:\DOT NET\Day 6\ConAppAssignmentJArray\ConAppAssignmentJArray\obj\Debug\ConAppAssignmentJArray.csproj.AssemblyReference.cache
+C:\DOT NET\Day 6\ConAppAssignmentJArray\ConAppAssignmentJArray\obj\Debug\ConAppAssignmentJArray.csproj.CoreCompileInputs.cache
+C:\DOT NET\Day 6\ConAppAssignmentJArray\ConAppAssignmentJArray\obj\Debug\ConAppAssignmentJArray.exe
+C:\DOT NET\Day 6\ConAppAssignmentJArray\ConAppAssignmentJArray\obj\Debug\ConAppAssignmentJArray.pdb
